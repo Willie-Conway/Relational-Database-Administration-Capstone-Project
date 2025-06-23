@@ -1,7 +1,5 @@
-Here’s a polished `README.md` for your **Relational Database Administration Capstone Project**, styled just like your IBM Data Engineering Capstone one, with emojis, module breakdowns, project assets, and a professional tone:
 
-```markdown
-# 🧱 IBM Relational Database Administration Capstone Project
+# 🖥️ IBM Relational Database Administration Capstone Project
 
 <p float="left">
     <img src="https://images.credly.com/size/340x340/images/9a51c3c8-a871-4931-9933-98d38ec98b16/Coursera_20Relational_20DB_20Administrator_20Capstone.png" width="300" />
