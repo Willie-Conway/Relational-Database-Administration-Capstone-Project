@@ -3,7 +3,7 @@
 
 <p float="left">
     <img src="https://images.credly.com/size/340x340/images/9a51c3c8-a871-4931-9933-98d38ec98b16/Coursera_20Relational_20DB_20Administrator_20Capstone.png" width="300" />
-    <img src="https://i.postimg.cc/T1m02Z18/php-My-Admin.png" width="300" />
+    <img src="https://i.postimg.cc/VkjN94rY/phpmyadmin.jpg" width="300" />
 </p>
 
 This capstone project highlights the hands-on application of core relational database administration skills by simulating a real-world enterprise environment.  
