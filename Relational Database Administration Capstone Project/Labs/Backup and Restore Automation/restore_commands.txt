@@ -1,0 +1,8 @@
+cd /home/project/backups
+LATEST_BACKUP=$(ls -t backup_sales_*.gz | head -1)
+gunzip -c "$LATEST_BACKUP" > restore.sql
+
+mysql sales < restore.sql
+
+
+mysql -e "SELECT * FROM sales.DimDate LIMIT 10;"

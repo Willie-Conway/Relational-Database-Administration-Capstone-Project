@@ -1,0 +1,16 @@
+mysql> CREATE INDEX idx_countryid ON FactSales(countryid);
+Query OK, 0 rows affected (2.53 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> 
+mysql> -- Check index creation
+mysql> SHOW INDEXES FROM FactSales;
++-----------+------------+---------------+--------------+-------------+-----------+-------------+----------+--------+------+------------+---------+---------------+---------+------------+
+| Table     | Non_unique | Key_name      | Seq_in_index | Column_name | Collation | Cardinality | Sub_part | Packed | Null | Index_type | Comment | Index_comment | Visible | Expression |
++-----------+------------+---------------+--------------+-------------+-----------+-------------+----------+--------+------+------------+---------+---------------+---------+------------+
+| FactSales |          0 | PRIMARY       |            1 | orderid     | A         |      299520 |     NULL |   NULL |      | BTREE      |         |               | YES     | NULL       |
+| FactSales |          1 | idx_countryid |            1 | countryid   | A         |          54 |     NULL |   NULL | YES  | BTREE      |         |               | YES     | NULL       |
++-----------+------------+---------------+--------------+-------------+-----------+-------------+----------+--------+------+------------+---------+---------------+---------+------------+
+2 rows in set (0.01 sec)
+
+mysql> 

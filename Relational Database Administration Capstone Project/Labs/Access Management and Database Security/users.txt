@@ -1,0 +1,72 @@
+✅ 1. db_admin (Full access)
+User name: db_admin
+
+Host name: localhost
+
+Password: leave blank
+
+Database for user: ✅ Grant all privileges on database sales
+
+Global privileges: ✅ Check all
+
+SSL: REQUIRE NONE
+📸 Save screenshot as db_admin_access.jpg
+
+✅ 2. db_analyst (View + Structure privileges)
+User name: db_analyst
+
+Host name: localhost
+
+Password: leave blank
+
+Database for user: Choose None
+
+Global privileges (Manual selection):
+
+✅ SELECT
+
+✅ CREATE VIEW
+
+✅ SHOW VIEW
+
+✅ CREATE TEMPORARY TABLES
+
+✅ CREATE ROUTINE
+
+✅ EXECUTE
+
+❌ Do not select: INSERT, UPDATE, DELETE, DROP, ALTER, etc.
+
+SSL: REQUIRE NONE
+📸 Save screenshot as db_analyst_access.jpg
+
+✅ 3. db_reporter (View-only access)
+User name: db_reporter
+
+Host name: localhost
+
+Password: leave blank
+
+Database for user: Choose None
+
+Global privileges:
+
+✅ SELECT only
+❌ Uncheck everything else
+
+SSL: REQUIRE NONE
+📸 Save screenshot as db_reporter_access.jpg
+
+✅ 4. db_external (View-only on specific columns of 1 table)
+Step 1: Create user (database-level)
+User name: db_external
+
+Host name: localhost
+
+Password: leave blank
+
+Database for user: Choose None
+
+Global privileges: ❌ Leave all unchecked
+📸 Save screenshot as db_external_database_level.jpg
+

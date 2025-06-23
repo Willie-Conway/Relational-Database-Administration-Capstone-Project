@@ -1,0 +1,3 @@
+SHOW TABLES;
+
+SELECT * FROM FactSales LIMIT 5;

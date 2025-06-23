@@ -1,0 +1,2 @@
+chmod +x truncate_tables.sh
+./truncate_tables.sh

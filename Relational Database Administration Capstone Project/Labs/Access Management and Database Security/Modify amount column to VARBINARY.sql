@@ -1,0 +1,1 @@
+ALTER TABLE FactSales MODIFY amount VARBINARY(255);
