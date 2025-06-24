@@ -123,7 +123,8 @@ This project brought together all major elements of relational database administ
 ## 📜 Certificate
 
 📄 *Earned the official IBM DBA Capstone Certificate*  
-🔗 [Coursera-54-BW3-ACSJ915.png](https://postimg.cc/PpGVtTzF)
+🔗 ![IBM Relational Database
+Administrator](https://i.postimg.cc/hvqHW1y4/Coursera-54-BW3-ACSJ915.png)
 
 ---
 
