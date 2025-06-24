@@ -124,7 +124,7 @@ This project brought together all major elements of relational database administ
 
 📄 *Earned the official IBM DBA Proffesional Certificate*  
 🔗 ![IBM Relational Database
-Administrator](https://coursera.org/share/786ad830690a68c00d437711fc83425e)
+Administrator](https://i.postimg.cc/cHCpBJKZ/Coursera-54-BW3-ACSJ915.png)
 
 ---
 
