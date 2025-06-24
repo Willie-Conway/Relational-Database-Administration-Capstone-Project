@@ -123,7 +123,7 @@ This project brought together all major elements of relational database administ
 ## 📜 Certificate
 
 📄 *Earned the official IBM DBA Capstone Certificate*  
-🔗 *[Add certificate link or badge here]*
+🔗 
 
 ---
 
