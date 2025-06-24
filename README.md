@@ -123,7 +123,8 @@ This project brought together all major elements of relational database administ
 ## 📜 Certificate
 
 📄 *Earned the official IBM DBA Proffesional Certificate*  
-🔗 [![Coursera-54-BW3-ACSJ915.png](https://i.postimg.cc/cHCpBJKZ/Coursera-54-BW3-ACSJ915.png)](https://postimg.cc/PpGVtTzF)
+
+ [![Coursera-54-BW3-ACSJ915.png](https://i.postimg.cc/cHCpBJKZ/Coursera-54-BW3-ACSJ915.png)](https://postimg.cc/PpGVtTzF)
 ---
 
 ## 💼 Ideal For
