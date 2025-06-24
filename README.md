@@ -120,13 +120,6 @@ This project brought together all major elements of relational database administ
 
 ---
 
-## 📜 Certificate
-
-📄 *Earned the official IBM DBA Proffesional Certificate*  
-
- ![Coursera-54-BW3-ACSJ915.png](https://github.com/Willie-Conway/Relational-Database-Administration-Capstone-Project/blob/4686050de752c89b3284ef197a66ed55c824d845/Relational%20DBA.pdf)
----
-
 ## 💼 Ideal For
 
 - Recruiters seeking skilled DBAs or backend engineers  
